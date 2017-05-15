@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.juexingzhe.MyStepView.R;
+import com.example.didi.MyStepView.R;
 import com.example.juexingzhe.MyStepView.model.StepBean;
 
 import java.util.ArrayList;

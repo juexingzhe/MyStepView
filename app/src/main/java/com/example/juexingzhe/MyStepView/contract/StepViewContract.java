@@ -18,6 +18,13 @@ public interface StepViewContract {
 
     interface StepPresenter {
 
+        /**
+         * 初始化数据
+         *
+         * @param textIndicators
+         * @param completeRes
+         * @param uncompleteRes
+         */
         void initData(List<String> textIndicators, List<Integer> completeRes, List<Integer> uncompleteRes);
 
         /**
