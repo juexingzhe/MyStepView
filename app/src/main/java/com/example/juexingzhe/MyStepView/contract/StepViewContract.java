@@ -11,6 +11,11 @@ import java.util.List;
 public interface StepViewContract {
 
     interface StepCompleteView {
+        /**
+         * set presenter
+         *
+         * @param stepPresenter
+         */
         void setPresenter(StepPresenter stepPresenter);
 
         StepView getStepView();
