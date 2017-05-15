@@ -32,7 +32,7 @@ public class StepView extends LinearLayout implements StepViewIndicator.onDrawIn
     private int mUncompleteTextColor;
     private int mCompleteTextColor;
 
-    private int mTextSize = 14;
+    private int mTextSize = 15;
 
 
     public StepView(Context context) {
