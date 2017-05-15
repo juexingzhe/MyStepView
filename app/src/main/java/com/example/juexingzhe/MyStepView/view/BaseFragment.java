@@ -10,7 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.example.juexingzhe.MyStepView.R;
+
+import com.example.didi.MyStepView.R;
 
 import org.greenrobot.eventbus.EventBus;
 
@@ -24,6 +25,8 @@ public abstract class BaseFragment extends Fragment {
 
     private Button mButton;
     private ButtonClickListener mButtonClickListener;
+
+    private static final int VAR = 0;
 
 
     @Override

@@ -5,7 +5,8 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
 
-import com.example.juexingzhe.MyStepView.R;
+import com.example.didi.MyStepView.R;
+
 
 /**
  * Created by didi on 2017/5/7.
